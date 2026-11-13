@@ -491,3 +491,4 @@ This project is intended to use the MIT License. Add a `LICENSE` file containing
 ---
 
 **PhishGuard AI — Explainable, locally processed phishing detection designed to help users recognize suspicious digital communications.**
+# Phishing-detection
